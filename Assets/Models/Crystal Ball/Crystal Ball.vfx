@@ -3305,7 +3305,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614728}
   m_ExposedName: Color over life
   m_Exposed: 1
-  m_Order: 1
+  m_Order: 2
   m_Category: Head
   m_Min:
     m_Type:
@@ -6760,7 +6760,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614956}
   m_ExposedName: _Color
   m_Exposed: 1
-  m_Order: 0
+  m_Order: 1
   m_Category: Vortex
   m_Min:
     m_Type:

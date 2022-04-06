@@ -4716,7 +4716,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614774}
   m_ExposedName: Size
   m_Exposed: 1
-  m_Order: 2
+  m_Order: 4
   m_Category: 
   m_Min:
     m_Type:
@@ -4796,7 +4796,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614776}
   m_ExposedName: Lifetime (Min, Max)
   m_Exposed: 1
-  m_Order: 3
+  m_Order: 6
   m_Category: 
   m_Min:
     m_Type:
@@ -4948,7 +4948,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614780}
   m_ExposedName: Scale
   m_Exposed: 1
-  m_Order: 0
+  m_Order: 1
   m_Category: Turbulence
   m_Min:
     m_Type:
@@ -5130,7 +5130,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614785}
   m_ExposedName: Intensity
   m_Exposed: 1
-  m_Order: 1
+  m_Order: 2
   m_Category: Turbulence
   m_Min:
     m_Type:
@@ -5210,7 +5210,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614787}
   m_ExposedName: Frequency
   m_Exposed: 1
-  m_Order: 2
+  m_Order: 5
   m_Category: Turbulence
   m_Min:
     m_Type:
@@ -5290,7 +5290,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614789}
   m_ExposedName: Quantity
   m_Exposed: 1
-  m_Order: 1
+  m_Order: 3
   m_Category: 
   m_Min:
     m_Type:

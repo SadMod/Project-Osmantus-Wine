@@ -121,10 +121,22 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
     - BOOLEAN_4DD5F3F4: 0
-    - Boolean_12607D04: 0
+    - Boolean_12607D04: 1
     - Boolean_573DD5B4: 1
     - Boolean_6DFC0931: 1
     - Boolean_90788C52: 1
@@ -135,7 +147,7 @@ Material:
     - Boolean_E351BE6B: 1
     - Vector1_1A2A1802: 0.54
     - Vector1_254ABF38: 1
-    - Vector1_35C1A926: 0.29
+    - Vector1_35C1A926: 0.01
     - Vector1_48B0E531: 1
     - Vector1_652325F2: 1
     - Vector1_A29FDC8A: 0
@@ -164,6 +176,7 @@ Material:
     - _OCCLUSIONMAP: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
+    - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _SMOOTHNESS: 1
