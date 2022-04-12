@@ -114,7 +114,7 @@ Material:
     - FlowMapIntensity: 0.8
     - FlowScrollPeriod: 5
     - LavaDetailTiling: 7
-    - Lava_Crease_Exponent: 4
+    - Lava_Crease_Exponent: 7.5
     - RandTimeScale: 5
     - Smoothness: 0
     - _AlphaClip: 0
